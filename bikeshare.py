@@ -93,7 +93,6 @@ def time_stats(df):
     df['start_hour'] = df['Start Time'].dt.hour
     print("The most common start hour: {}".format(str(df['start_hour'].mode().values[0])))
 
-
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
@@ -196,7 +195,6 @@ def main():
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
             break
-
 
 if __name__ == "__main__":
 	main()
