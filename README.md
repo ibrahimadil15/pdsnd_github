@@ -1,15 +1,23 @@
 ### Date created
-Include the date you created this project and README file.
+ The date I created this project and README file was on  "2019 - 09 - 09".
 
 ### Project Title
-Replace the Project Title
+US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+1. Understand US Bikeshare Data.
+2. Calculate Statistics.
+3. Build an interactive environment where a user chooses the data and filter for a dataset to analyze.
 
 ### Files used
-Include the files used
+>> chicago.csv
+>> new_york_city.csv
+>> washington.csv
+>> bikeshare.py
+>> README.md
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Websites helped me while working on my project : -
+>> www.github.com
+>> algorithm.codingdojo.com
+>> www.stackoverflow.com
