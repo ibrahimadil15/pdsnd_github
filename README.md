@@ -21,3 +21,5 @@ Websites helped me while working on my project : -
 >> www.github.com
 >> algorithm.codingdojo.com
 >> www.stackoverflow.com
+>> https://algorithm.codingdojo.com/lesson
+>> https://docs.python.org/3/
